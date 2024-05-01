@@ -40,7 +40,7 @@ void agregar(int num){
 }
 
 void mostrar(){
-    for (int i=0; i<0pos; i++){
+    for (int i=0; i<pos; i++){
         cout << vector[i] << endl;
      }
     
